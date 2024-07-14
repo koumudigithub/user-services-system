@@ -7,6 +7,7 @@ Welcome to the User Services System repository! This project is designed to mana
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,6 +42,11 @@ The User Services System is a comprehensive solution for managing user-related s
 - Axios for HTTP requests
 
 ## Installation
+
+### Prerequisites
+
+- Node.js
+- Redis
 
 ### Steps
 
