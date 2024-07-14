@@ -8,9 +8,6 @@ Welcome to the User Services System repository! This project is designed to mana
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
